@@ -13,7 +13,7 @@ To use the code in this repository, follow the steps below:
 
 Clone the repository to your local machine using the following command:
 
-git clone  
+git clone: https://github.com/Khushipgowda/chronic_pain_classifier
 Navigate to the directory where the repository is cloned and open the "Patient_3.ipynb" notebook in Jupyter Notebook or Jupyter Lab.
 
 Ensure that you have the necessary dependencies installed, such as NumPy, Pandas, Scikit-learn, and Matplotlib. If not, you can install them using the following command:
